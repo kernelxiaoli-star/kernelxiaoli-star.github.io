@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kernel.workbench",
+    "sha256_cert_fingerprints": [
+      "E3:F3:6E:E1:32:CD:D2:EE:16:6E:02:DF:69:9D:C4:2E:01:6E:BD:C7:38:FD:2E:2E:BE:64:AA:00:E2:52:20:4D"
+    ]
+  }
+}]
